@@ -49,6 +49,7 @@ video {
 .question-blocks h1 {
   color: white;
   font-weight: normal;
+  font-size: 1.3em;
 }
 
 .question-blocks a {
