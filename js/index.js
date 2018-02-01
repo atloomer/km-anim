@@ -1,4 +1,4 @@
 $('#video video').bind('ended', function(){
-   $(this).parent().fadeOut();
-   $('.loading-page').fadeOut();
+   $(this).parent().fadeOut("slow");
+   $('.loading-page').fadeOut("slow");
 });
